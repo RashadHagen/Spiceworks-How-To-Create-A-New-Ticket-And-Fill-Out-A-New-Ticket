@@ -36,7 +36,7 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Go To: https://www.spiceworks.com and go to Spiceworks ticketing system.</b></span>  
-<br/>
+<br/><br/>
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b><a href="https://github.com/RashadHagen/Spiceworks-How-To-Sign-In-And-Get-To-Spiceworks-Ticketing-System" style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;"> (LINK: How To Sign-In And Get To Spiceworks’ Ticketing System</b></span>  
