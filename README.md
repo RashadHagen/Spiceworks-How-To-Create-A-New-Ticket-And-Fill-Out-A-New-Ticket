@@ -123,6 +123,7 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 <table>
   <tr>
     <td><img src="https://imgur.com/SFsZ4re.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/rNKIvs2.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
@@ -130,13 +131,85 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 
 
 </div>
-  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Summary” box: a short, descriptive title for the IT issue, acting like the subject line of an email, designed to quickly tell support agents what the problem is.</b></span>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Description” box: the main text area for the Contact/user to provide detailed information about their IT issue (program/app/hardware).</b></span>
 <br/>
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/SFsZ4re.png" height="100%" width="100%" /></td>
-    <td><img src="https://imgur.com/rNKIvs2.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/hENHIiM.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/d7zGnhM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Assignee” drop-down box: identifies the specific IT admin or technician responsible for working on and resolving that support request, acting as the owner of the issue.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/AY8fBWn.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The ‘Priority” area is: classifies a ticket’s urgency (Low, Medium, High, Urgent) and used to help IT admin/technicians know which tickets to work on first.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Di1j4EB.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Category” drop-down box is: for classifying the issue (like Hardware, Software, Network, etc.).</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/cYBI3n8.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/B5oh09g.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/5nzlhjQ.png" height="50%" width="50%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Attach a file” box: lets users upload supporting documents, screenshots, logs, or images.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Ld5G7hM.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>When you have completed all fields, Click: Create (very bottom-right).</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/KeDkt3Q.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
