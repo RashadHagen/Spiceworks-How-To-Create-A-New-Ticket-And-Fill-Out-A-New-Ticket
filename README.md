@@ -74,7 +74,7 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/xxUqEpV.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/xxUqEpV.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
