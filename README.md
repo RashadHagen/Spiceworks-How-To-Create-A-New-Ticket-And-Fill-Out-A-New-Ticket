@@ -196,7 +196,7 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/Ld5G7hM.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/Ld5G7hM.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
@@ -209,7 +209,7 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/KeDkt3Q.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/KeDkt3Q.png" height="50%" width="50%" /></td>
   </tr>
 </table>
 
