@@ -38,7 +38,6 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 <br/><br/><br/>
 
 
-
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Go To: https://www.spiceworks.com and go to Spiceworks ticketing system.</b></span>  
 <br/><br/>
@@ -76,6 +75,68 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 <table>
   <tr>
     <td><img src="https://imgur.com/xxUqEpV.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>HOW TO FILL OUT A TICKET</b></span>  
+<br/>
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>•	NOTE: The more details/information, the better.</b></span>
+<br/><br/><br/>
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Organization” drop-down box: identifies which company or distinct group/division within your IT environment the request originates from.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/LisL88F.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Contact” drop-down box: identifies the end-user or person reporting the IT issue.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/WT5YEci.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Summary” box: a short, descriptive title for the IT issue, acting like the subject line of an email, designed to quickly tell support agents what the problem is.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/SFsZ4re.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>The “Summary” box: a short, descriptive title for the IT issue, acting like the subject line of an email, designed to quickly tell support agents what the problem is.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/SFsZ4re.png" height="100%" width="100%" /></td>
+    <td><img src="https://imgur.com/rNKIvs2.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
