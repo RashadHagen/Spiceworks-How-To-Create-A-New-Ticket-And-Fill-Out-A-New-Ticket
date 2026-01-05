@@ -33,6 +33,11 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 ⏹️ Project Walk-Through:</h2>
  <br/>
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>HOW TO CREATE A NEW TICKET</b></span>  
+<br/><br/><br/>
+
+
 
 <div style="text-align:center;">
   <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Go To: https://www.spiceworks.com and go to Spiceworks ticketing system.</b></span>  
@@ -51,4 +56,27 @@ In this project, you will use the Spiceworks ticketing system. You are tasked wi
 <br /><br />
 
 
-<div
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Click: + New Ticket (between: Search box and Refresh symbol).</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/vGfhs0J.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
+
+
+</div>
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>A box will open called: Create a ticket.</b></span>
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/xxUqEpV.png" height="100%" width="100%" /></td>
+  </tr>
+</table>
+
+<br /><br />
